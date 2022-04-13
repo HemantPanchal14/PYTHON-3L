@@ -30,5 +30,8 @@ PANDAS LEARNING -it's apython library-it use to analyse data,Pandas Series = is 
 What is a pandas label?
 Image result for label in pandas series Pandas Series is a one-dimensional labeled array capable of holding data of any type (integer, string, float, python objects, etc.).
 A Pandas DataFrame : is a 2 dimensional data structure, like a 2 dimensional array, or a table with rows and columns.
+
 to delete any column permanently will use'inplace=true' NOTE: axis'0'= row and axis'1'=columns.
+
 access rows by loc and iloc function.
+
